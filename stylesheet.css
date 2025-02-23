@@ -1075,3 +1075,10 @@ button:hover {
         width: 90%;
     }
 }
+@media (max-width: 320px)
+{
+    .profile{
+        width:60%;
+        height:60%
+    }
+}
